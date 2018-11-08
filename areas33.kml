@@ -1,0 +1,875 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Schema id="code-insee-postaux-geoflar" name="code-insee-postaux-geoflar">
+            <SimpleField name="code_commune_insee" type="string">
+                <displayName>CODE INSEE</displayName>
+            </SimpleField>
+            <SimpleField name="nom_de_la_commune" type="string">
+                <displayName>NOM DE LA COMMUNE</displayName>
+            </SimpleField>
+            <SimpleField name="code_postal" type="string">
+                <displayName>CODE POSTAL</displayName>
+            </SimpleField>
+            <SimpleField name="libelle_d_acheminement" type="string">
+                <displayName>LIBELLE D'ACHEMINEMENT</displayName>
+            </SimpleField>
+            <SimpleField name="y_centroid" type="int">
+                <displayName>Y_CENTROID</displayName>
+            </SimpleField>
+            <SimpleField name="nom_region" type="string">
+                <displayName>NOM_REGION</displayName>
+            </SimpleField>
+            <SimpleField name="nom_dept" type="string">
+                <displayName>NOM_DEPT</displayName>
+            </SimpleField>
+            <SimpleField name="statut" type="string">
+                <displayName>STATUT</displayName>
+            </SimpleField>
+            <SimpleField name="code_reg" type="string">
+                <displayName>CODE_REG</displayName>
+            </SimpleField>
+            <SimpleField name="code_comm" type="string">
+                <displayName>CODE_COMM</displayName>
+            </SimpleField>
+            <SimpleField name="z_moyen" type="int">
+                <displayName>Z_MOYEN</displayName>
+            </SimpleField>
+            <SimpleField name="code_dept" type="string">
+                <displayName>CODE_DEPT</displayName>
+            </SimpleField>
+            <SimpleField name="x_centroid" type="int">
+                <displayName>X_CENTROID</displayName>
+            </SimpleField>
+            <SimpleField name="id_geofla" type="string">
+                <displayName>ID_GEOFLA</displayName>
+            </SimpleField>
+            <SimpleField name="x_chf_lieu" type="int">
+                <displayName>X_CHF_LIEU</displayName>
+            </SimpleField>
+            <SimpleField name="code_cant" type="string">
+                <displayName>CODE_CANT</displayName>
+            </SimpleField>
+            <SimpleField name="superficie" type="int">
+                <displayName>SUPERFICIE</displayName>
+            </SimpleField>
+            <SimpleField name="population" type="double">
+                <displayName>POPULATION</displayName>
+            </SimpleField>
+            <SimpleField name="nom_comm" type="string">
+                <displayName>NOM_COMM</displayName>
+            </SimpleField>
+            <SimpleField name="code_arr" type="string">
+                <displayName>CODE_ARR</displayName>
+            </SimpleField>
+            <SimpleField name="y_chf_lieu" type="int">
+                <displayName>Y_CHF_LIEU</displayName>
+            </SimpleField>
+        </Schema>
+        <Placemark>
+            <name>33013</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.4963163592,44.8414500953 -0.4777862634,44.8523154373 -0.4720264114,44.8655002819 -0.4750932459,44.871027838 -0.4970648907,44.8768534632 -0.5048706656,44.8678923523 -0.5036442016,44.8478428192 -0.4963163592,44.8414500953 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33013</SimpleData>
+                    <SimpleData name="nom_de_la_commune">ARTIGUES PRES BORDEAUX</SimpleData>
+                    <SimpleData name="code_postal">33370</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">ARTIGUES PRES BORDEAUX</SimpleData>
+                    <SimpleData name="y_centroid">64239</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Commune simple</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">013</SimpleData>
+                    <SimpleData name="z_moyen">59</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4243</SimpleData>
+                    <SimpleData name="id_geofla">20129</SimpleData>
+                    <SimpleData name="x_chf_lieu">4238</SimpleData>
+                    <SimpleData name="code_cant">55</SimpleData>
+                    <SimpleData name="superficie">729</SimpleData>
+                    <SimpleData name="population">7.2</SimpleData>
+                    <SimpleData name="nom_comm">ARTIGUES-PRES-BORDEAUX</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64238</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33032</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5170489925,44.8879019861 -0.5163187761,44.8946573765 -0.5037959185,44.9046694965 -0.5016655236,44.9180750138 -0.5361360889,44.9258241642 -0.5498398726,44.9234583429 -0.5477355411,44.9166669651 -0.5355325511,44.8890992738 -0.5170489925,44.8879019861 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33032</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BASSENS</SimpleData>
+                    <SimpleData name="code_postal">33530</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BASSENS</SimpleData>
+                    <SimpleData name="y_centroid">64294</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Commune simple</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">032</SimpleData>
+                    <SimpleData name="z_moyen">13</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4218</SimpleData>
+                    <SimpleData name="id_geofla">12076</SimpleData>
+                    <SimpleData name="x_chf_lieu">4224</SimpleData>
+                    <SimpleData name="code_cant">60</SimpleData>
+                    <SimpleData name="superficie">1030</SimpleData>
+                    <SimpleData name="population">6.9</SimpleData>
+                    <SimpleData name="nom_comm">BASSENS</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64288</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33039</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5230913705,44.791134825 -0.5265647084,44.8061467688 -0.5323520626,44.8162454543 -0.5376632156,44.8227722341 -0.5560604718,44.8131352781 -0.5738778171,44.8107958526 -0.5726253562,44.8058343222 -0.5633140016,44.7833778719 -0.5230913705,44.791134825 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33039</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BEGLES</SimpleData>
+                    <SimpleData name="code_postal">33130</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BEGLES</SimpleData>
+                    <SimpleData name="y_centroid">64176</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">039</SimpleData>
+                    <SimpleData name="z_moyen">7</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4195</SimpleData>
+                    <SimpleData name="id_geofla">15724</SimpleData>
+                    <SimpleData name="x_chf_lieu">4194</SimpleData>
+                    <SimpleData name="code_cant">52</SimpleData>
+                    <SimpleData name="superficie">1094</SimpleData>
+                    <SimpleData name="population">24.9</SimpleData>
+                    <SimpleData name="nom_comm">BEGLES</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64183</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33056</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6421082605,44.8949639269 -0.6298533947,44.8982044048 -0.6117593666,44.9007863817 -0.6038470729,44.9081005813 -0.5808855556,44.9094022274 -0.5764891778,44.9084804104 -0.5477355411,44.9166669651 -0.5498398726,44.9234583429 -0.5490751275,44.9388313563 -0.5628505839,44.941941475 -0.5729503578,44.9347493818 -0.6017731236,44.9360358116 -0.6138476214,44.9416553694 -0.6186096196,44.9411128123 -0.6216373104,44.9473143013 -0.6313666179,44.9472310992 -0.6634476017,44.9388141294 -0.6705213853,44.9299819419 -0.6705301572,44.9231405646 -0.653871087,44.916695638 -0.6539398946,44.9097712625 -0.6421082605,44.8949639269 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33056</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BLANQUEFORT</SimpleData>
+                    <SimpleData name="code_postal">33290</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BLANQUEFORT</SimpleData>
+                    <SimpleData name="y_centroid">64314</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">056</SimpleData>
+                    <SimpleData name="z_moyen">13</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4150</SimpleData>
+                    <SimpleData name="id_geofla">94</SimpleData>
+                    <SimpleData name="x_chf_lieu">4130</SimpleData>
+                    <SimpleData name="code_cant">06</SimpleData>
+                    <SimpleData name="superficie">3398</SimpleData>
+                    <SimpleData name="population">14.8</SimpleData>
+                    <SimpleData name="nom_comm">BLANQUEFORT</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64300</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33065</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.4982234624,44.8053775984 -0.4745946705,44.8253162734 -0.5018898239,44.8298738833 -0.5153960022,44.8210651961 -0.5323520626,44.8162454543 -0.5265647084,44.8061467688 -0.519560647,44.8026563776 -0.4982234624,44.8053775984 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33065</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BOULIAC</SimpleData>
+                    <SimpleData name="code_postal">33270</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BOULIAC</SimpleData>
+                    <SimpleData name="y_centroid">64191</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Commune simple</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">065</SimpleData>
+                    <SimpleData name="z_moyen">36</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4230</SimpleData>
+                    <SimpleData name="id_geofla">13103</SimpleData>
+                    <SimpleData name="x_chf_lieu">4232</SimpleData>
+                    <SimpleData name="code_cant">58</SimpleData>
+                    <SimpleData name="superficie">780</SimpleData>
+                    <SimpleData name="population">3.1</SimpleData>
+                    <SimpleData name="nom_comm">BOULIAC</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64189</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33069</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5760887414,44.8691889619 -0.5977604675,44.8733282611 -0.6111685241,44.8715227998 -0.6223731635,44.8768267103 -0.6310512789,44.8716580977 -0.6163017657,44.8622797033 -0.5946093939,44.8542152659 -0.5764601966,44.8656710763 -0.5760887414,44.8691889619 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33069</SimpleData>
+                    <SimpleData name="nom_de_la_commune">LE BOUSCAT</SimpleData>
+                    <SimpleData name="code_postal">33110</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">LE BOUSCAT</SimpleData>
+                    <SimpleData name="y_centroid">64250</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">069</SimpleData>
+                    <SimpleData name="z_moyen">15</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4155</SimpleData>
+                    <SimpleData name="id_geofla">32864</SimpleData>
+                    <SimpleData name="x_chf_lieu">4158</SimpleData>
+                    <SimpleData name="code_cant">54</SimpleData>
+                    <SimpleData name="superficie">527</SimpleData>
+                    <SimpleData name="population">23.1</SimpleData>
+                    <SimpleData name="nom_comm">LE BOUSCAT</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64248</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33075</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5760887414,44.8691889619 -0.5808855556,44.9094022274 -0.6038470729,44.9081005813 -0.6117593666,44.9007863817 -0.6298533947,44.8982044048 -0.6258937506,44.8883474356 -0.6289087006,44.8818406966 -0.6223731635,44.8768267103 -0.6111685241,44.8715227998 -0.5977604675,44.8733282611 -0.5760887414,44.8691889619 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33075</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BRUGES</SimpleData>
+                    <SimpleData name="code_postal">33520</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BRUGES</SimpleData>
+                    <SimpleData name="y_centroid">64275</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Commune simple</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">075</SimpleData>
+                    <SimpleData name="z_moyen">6</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4158</SimpleData>
+                    <SimpleData name="id_geofla">22878</SimpleData>
+                    <SimpleData name="x_chf_lieu">4148</SimpleData>
+                    <SimpleData name="code_cant">54</SimpleData>
+                    <SimpleData name="superficie">1420</SimpleData>
+                    <SimpleData name="population">14.9</SimpleData>
+                    <SimpleData name="nom_comm">BRUGES</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64269</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33096</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5038208204,44.8878156314 -0.4840648275,44.9157085603 -0.5016655236,44.9180750138 -0.5037959185,44.9046694965 -0.5163187761,44.8946573765 -0.5170489925,44.8879019861 -0.5038208204,44.8878156314 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33096</SimpleData>
+                    <SimpleData name="nom_de_la_commune">CARBON BLANC</SimpleData>
+                    <SimpleData name="code_postal">33560</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">CARBON BLANC</SimpleData>
+                    <SimpleData name="y_centroid">64287</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">096</SimpleData>
+                    <SimpleData name="z_moyen">29</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4237</SimpleData>
+                    <SimpleData name="id_geofla">24641</SimpleData>
+                    <SimpleData name="x_chf_lieu">4232</SimpleData>
+                    <SimpleData name="code_cant">19</SimpleData>
+                    <SimpleData name="superficie">382</SimpleData>
+                    <SimpleData name="population">6.9</SimpleData>
+                    <SimpleData name="nom_comm">CARBON-BLANC</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64278</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33119</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5422310311,44.8423904888 -0.5036442016,44.8478428192 -0.5048706656,44.8678923523 -0.5378468615,44.8612671747 -0.537614624,44.848134507 -0.5422310311,44.8423904888 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33119</SimpleData>
+                    <SimpleData name="nom_de_la_commune">CENON</SimpleData>
+                    <SimpleData name="code_postal">33150</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">CENON</SimpleData>
+                    <SimpleData name="y_centroid">64234</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">119</SimpleData>
+                    <SimpleData name="z_moyen">46</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4219</SimpleData>
+                    <SimpleData name="id_geofla">22887</SimpleData>
+                    <SimpleData name="x_chf_lieu">4209</SimpleData>
+                    <SimpleData name="code_cant">55</SimpleData>
+                    <SimpleData name="superficie">571</SimpleData>
+                    <SimpleData name="population">22.2</SimpleData>
+                    <SimpleData name="nom_comm">CENON</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64237</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33162</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.666567073,44.8580882238 -0.6511984,44.8626058836 -0.6383364256,44.8606670217 -0.6310512789,44.8716580977 -0.6223731635,44.8768267103 -0.6289087006,44.8818406966 -0.6258937506,44.8883474356 -0.6298533947,44.8982044048 -0.6421082605,44.8949639269 -0.6692522364,44.8954761021 -0.6696266539,44.8787172441 -0.6617010431,44.8711015798 -0.666567073,44.8580882238 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33162</SimpleData>
+                    <SimpleData name="nom_de_la_commune">EYSINES</SimpleData>
+                    <SimpleData name="code_postal">33320</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">EYSINES</SimpleData>
+                    <SimpleData name="y_centroid">64267</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Commune simple</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">162</SimpleData>
+                    <SimpleData name="z_moyen">24</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4120</SimpleData>
+                    <SimpleData name="id_geofla">23940</SimpleData>
+                    <SimpleData name="x_chf_lieu">4117</SimpleData>
+                    <SimpleData name="code_cant">06</SimpleData>
+                    <SimpleData name="superficie">1203</SimpleData>
+                    <SimpleData name="population">19.6</SimpleData>
+                    <SimpleData name="nom_comm">EYSINES</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64272</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33167</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5323520626,44.8162454543 -0.5153960022,44.8210651961 -0.5018898239,44.8298738833 -0.4966156281,44.8350690788 -0.4963163592,44.8414500953 -0.5036442016,44.8478428192 -0.5422310311,44.8423904888 -0.5466594378,44.8362917761 -0.5364231779,44.8290212706 -0.5376632156,44.8227722341 -0.5323520626,44.8162454543 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33167</SimpleData>
+                    <SimpleData name="nom_de_la_commune">FLOIRAC</SimpleData>
+                    <SimpleData name="code_postal">33270</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">FLOIRAC</SimpleData>
+                    <SimpleData name="y_centroid">64211</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">167</SimpleData>
+                    <SimpleData name="z_moyen">38</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4218</SimpleData>
+                    <SimpleData name="id_geofla">33588</SimpleData>
+                    <SimpleData name="x_chf_lieu">4214</SimpleData>
+                    <SimpleData name="code_cant">58</SimpleData>
+                    <SimpleData name="superficie">847</SimpleData>
+                    <SimpleData name="population">16.2</SimpleData>
+                    <SimpleData name="nom_comm">FLOIRAC</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64214</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33192</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6327188802,44.7421714852 -0.6166421924,44.7491867901 -0.6076224101,44.7572317305 -0.5901369062,44.7627026824 -0.5868908786,44.7750737167 -0.5918261133,44.7869634633 -0.6052508045,44.7930345338 -0.6144022301,44.7928445742 -0.6449609868,44.7778918917 -0.6422266651,44.7616688651 -0.6321515534,44.7549248494 -0.6327188802,44.7421714852 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33192</SimpleData>
+                    <SimpleData name="nom_de_la_commune">GRADIGNAN</SimpleData>
+                    <SimpleData name="code_postal">33170</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">GRADIGNAN</SimpleData>
+                    <SimpleData name="y_centroid">64145</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">192</SimpleData>
+                    <SimpleData name="z_moyen">32</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4139</SimpleData>
+                    <SimpleData name="id_geofla">28033</SimpleData>
+                    <SimpleData name="x_chf_lieu">4139</SimpleData>
+                    <SimpleData name="code_cant">59</SimpleData>
+                    <SimpleData name="superficie">1565</SimpleData>
+                    <SimpleData name="population">23.1</SimpleData>
+                    <SimpleData name="nom_comm">GRADIGNAN</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64145</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33200</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.7194057266,44.846928339 -0.6758518807,44.8586101744 -0.666567073,44.8580882238 -0.6617010431,44.8711015798 -0.6696266539,44.8787172441 -0.6692522364,44.8954761021 -0.6806849625,44.8948182137 -0.6927826934,44.8694045666 -0.7172524863,44.8536343324 -0.7194057266,44.846928339 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33200</SimpleData>
+                    <SimpleData name="nom_de_la_commune">LE HAILLAN</SimpleData>
+                    <SimpleData name="code_postal">33185</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">LE HAILLAN</SimpleData>
+                    <SimpleData name="y_centroid">64256</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Commune simple</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">200</SimpleData>
+                    <SimpleData name="z_moyen">35</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4090</SimpleData>
+                    <SimpleData name="id_geofla">30266</SimpleData>
+                    <SimpleData name="x_chf_lieu">4097</SimpleData>
+                    <SimpleData name="code_cant">63</SimpleData>
+                    <SimpleData name="superficie">937</SimpleData>
+                    <SimpleData name="population">8.9</SimpleData>
+                    <SimpleData name="nom_comm">LE HAILLAN</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64259</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33249</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5378468615,44.8612671747 -0.5048706656,44.8678923523 -0.4970648907,44.8768534632 -0.4942429133,44.8824217942 -0.5038208204,44.8878156314 -0.5170489925,44.8879019861 -0.5355325511,44.8890992738 -0.5414101444,44.8691385221 -0.5368066966,44.8680866899 -0.5378468615,44.8612671747 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33249</SimpleData>
+                    <SimpleData name="nom_de_la_commune">LORMONT</SimpleData>
+                    <SimpleData name="code_postal">33310</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">LORMONT</SimpleData>
+                    <SimpleData name="y_centroid">64259</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">249</SimpleData>
+                    <SimpleData name="z_moyen">39</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4221</SimpleData>
+                    <SimpleData name="id_geofla">23989</SimpleData>
+                    <SimpleData name="x_chf_lieu">4219</SimpleData>
+                    <SimpleData name="code_cant">60</SimpleData>
+                    <SimpleData name="superficie">779</SimpleData>
+                    <SimpleData name="population">19.8</SimpleData>
+                    <SimpleData name="nom_comm">LORMONT</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64261</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33063</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5738778171,44.8107958526 -0.5560604718,44.8131352781 -0.5376632156,44.8227722341 -0.5364231779,44.8290212706 -0.5466594378,44.8362917761 -0.5422310311,44.8423904888 -0.537614624,44.848134507 -0.5378468615,44.8612671747 -0.5368066966,44.8680866899 -0.5414101444,44.8691385221 -0.5355325511,44.8890992738 -0.5477355411,44.9166669651 -0.5764891778,44.9084804104 -0.5808855556,44.9094022274 -0.5760887414,44.8691889619 -0.5764601966,44.8656710763 -0.5946093939,44.8542152659 -0.6163017657,44.8622797033 -0.6310512789,44.8716580977 -0.6383364256,44.8606670217 -0.6277124319,44.8413849237 -0.6107941966,44.835177467 -0.6141503383,44.8249378437 -0.6106485986,44.8224743045 -0.6030472387,44.8184766385 -0.5869582241,44.8239101939 -0.5764346044,44.8171482981 -0.5738778171,44.8107958526 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33063</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BORDEAUX</SimpleData>
+                    <SimpleData name="code_postal">33200</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BORDEAUX</SimpleData>
+                    <SimpleData name="y_centroid">64239</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Préfecture de région</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">063</SimpleData>
+                    <SimpleData name="z_moyen">9</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4177</SimpleData>
+                    <SimpleData name="id_geofla">9818</SimpleData>
+                    <SimpleData name="x_chf_lieu">4172</SimpleData>
+                    <SimpleData name="code_cant">99</SimpleData>
+                    <SimpleData name="superficie">4970</SimpleData>
+                    <SimpleData name="population">239.2</SimpleData>
+                    <SimpleData name="nom_comm">BORDEAUX</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64218</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33063</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5738778171,44.8107958526 -0.5560604718,44.8131352781 -0.5376632156,44.8227722341 -0.5364231779,44.8290212706 -0.5466594378,44.8362917761 -0.5422310311,44.8423904888 -0.537614624,44.848134507 -0.5378468615,44.8612671747 -0.5368066966,44.8680866899 -0.5414101444,44.8691385221 -0.5355325511,44.8890992738 -0.5477355411,44.9166669651 -0.5764891778,44.9084804104 -0.5808855556,44.9094022274 -0.5760887414,44.8691889619 -0.5764601966,44.8656710763 -0.5946093939,44.8542152659 -0.6163017657,44.8622797033 -0.6310512789,44.8716580977 -0.6383364256,44.8606670217 -0.6277124319,44.8413849237 -0.6107941966,44.835177467 -0.6141503383,44.8249378437 -0.6106485986,44.8224743045 -0.6030472387,44.8184766385 -0.5869582241,44.8239101939 -0.5764346044,44.8171482981 -0.5738778171,44.8107958526 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33063</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BORDEAUX</SimpleData>
+                    <SimpleData name="code_postal">33300</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BORDEAUX</SimpleData>
+                    <SimpleData name="y_centroid">64239</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Préfecture de région</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">063</SimpleData>
+                    <SimpleData name="z_moyen">9</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4177</SimpleData>
+                    <SimpleData name="id_geofla">9818</SimpleData>
+                    <SimpleData name="x_chf_lieu">4172</SimpleData>
+                    <SimpleData name="code_cant">99</SimpleData>
+                    <SimpleData name="superficie">4970</SimpleData>
+                    <SimpleData name="population">239.2</SimpleData>
+                    <SimpleData name="nom_comm">BORDEAUX</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64218</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33063</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5738778171,44.8107958526 -0.5560604718,44.8131352781 -0.5376632156,44.8227722341 -0.5364231779,44.8290212706 -0.5466594378,44.8362917761 -0.5422310311,44.8423904888 -0.537614624,44.848134507 -0.5378468615,44.8612671747 -0.5368066966,44.8680866899 -0.5414101444,44.8691385221 -0.5355325511,44.8890992738 -0.5477355411,44.9166669651 -0.5764891778,44.9084804104 -0.5808855556,44.9094022274 -0.5760887414,44.8691889619 -0.5764601966,44.8656710763 -0.5946093939,44.8542152659 -0.6163017657,44.8622797033 -0.6310512789,44.8716580977 -0.6383364256,44.8606670217 -0.6277124319,44.8413849237 -0.6107941966,44.835177467 -0.6141503383,44.8249378437 -0.6106485986,44.8224743045 -0.6030472387,44.8184766385 -0.5869582241,44.8239101939 -0.5764346044,44.8171482981 -0.5738778171,44.8107958526 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33063</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BORDEAUX</SimpleData>
+                    <SimpleData name="code_postal">33100</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BORDEAUX</SimpleData>
+                    <SimpleData name="y_centroid">64239</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Préfecture de région</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">063</SimpleData>
+                    <SimpleData name="z_moyen">9</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4177</SimpleData>
+                    <SimpleData name="id_geofla">9818</SimpleData>
+                    <SimpleData name="x_chf_lieu">4172</SimpleData>
+                    <SimpleData name="code_cant">99</SimpleData>
+                    <SimpleData name="superficie">4970</SimpleData>
+                    <SimpleData name="population">239.2</SimpleData>
+                    <SimpleData name="nom_comm">BORDEAUX</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64218</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33063</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5738778171,44.8107958526 -0.5560604718,44.8131352781 -0.5376632156,44.8227722341 -0.5364231779,44.8290212706 -0.5466594378,44.8362917761 -0.5422310311,44.8423904888 -0.537614624,44.848134507 -0.5378468615,44.8612671747 -0.5368066966,44.8680866899 -0.5414101444,44.8691385221 -0.5355325511,44.8890992738 -0.5477355411,44.9166669651 -0.5764891778,44.9084804104 -0.5808855556,44.9094022274 -0.5760887414,44.8691889619 -0.5764601966,44.8656710763 -0.5946093939,44.8542152659 -0.6163017657,44.8622797033 -0.6310512789,44.8716580977 -0.6383364256,44.8606670217 -0.6277124319,44.8413849237 -0.6107941966,44.835177467 -0.6141503383,44.8249378437 -0.6106485986,44.8224743045 -0.6030472387,44.8184766385 -0.5869582241,44.8239101939 -0.5764346044,44.8171482981 -0.5738778171,44.8107958526 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33063</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BORDEAUX</SimpleData>
+                    <SimpleData name="code_postal">33000</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BORDEAUX</SimpleData>
+                    <SimpleData name="y_centroid">64239</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Préfecture de région</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">063</SimpleData>
+                    <SimpleData name="z_moyen">9</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4177</SimpleData>
+                    <SimpleData name="id_geofla">9818</SimpleData>
+                    <SimpleData name="x_chf_lieu">4172</SimpleData>
+                    <SimpleData name="code_cant">99</SimpleData>
+                    <SimpleData name="superficie">4970</SimpleData>
+                    <SimpleData name="population">239.2</SimpleData>
+                    <SimpleData name="nom_comm">BORDEAUX</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64218</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33063</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5738778171,44.8107958526 -0.5560604718,44.8131352781 -0.5376632156,44.8227722341 -0.5364231779,44.8290212706 -0.5466594378,44.8362917761 -0.5422310311,44.8423904888 -0.537614624,44.848134507 -0.5378468615,44.8612671747 -0.5368066966,44.8680866899 -0.5414101444,44.8691385221 -0.5355325511,44.8890992738 -0.5477355411,44.9166669651 -0.5764891778,44.9084804104 -0.5808855556,44.9094022274 -0.5760887414,44.8691889619 -0.5764601966,44.8656710763 -0.5946093939,44.8542152659 -0.6163017657,44.8622797033 -0.6310512789,44.8716580977 -0.6383364256,44.8606670217 -0.6277124319,44.8413849237 -0.6107941966,44.835177467 -0.6141503383,44.8249378437 -0.6106485986,44.8224743045 -0.6030472387,44.8184766385 -0.5869582241,44.8239101939 -0.5764346044,44.8171482981 -0.5738778171,44.8107958526 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33063</SimpleData>
+                    <SimpleData name="nom_de_la_commune">BORDEAUX</SimpleData>
+                    <SimpleData name="code_postal">33800</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">BORDEAUX</SimpleData>
+                    <SimpleData name="y_centroid">64239</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Préfecture de région</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">063</SimpleData>
+                    <SimpleData name="z_moyen">9</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4177</SimpleData>
+                    <SimpleData name="id_geofla">9818</SimpleData>
+                    <SimpleData name="x_chf_lieu">4172</SimpleData>
+                    <SimpleData name="code_cant">99</SimpleData>
+                    <SimpleData name="superficie">4970</SimpleData>
+                    <SimpleData name="population">239.2</SimpleData>
+                    <SimpleData name="nom_comm">BORDEAUX</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64218</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33522</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5918261133,44.7869634633 -0.5872089501,44.7879872446 -0.5726253562,44.8058343222 -0.5738778171,44.8107958526 -0.5764346044,44.8171482981 -0.5869582241,44.8239101939 -0.6030472387,44.8184766385 -0.6100662272,44.8143998969 -0.6056619869,44.8087120696 -0.6052508045,44.7930345338 -0.5918261133,44.7869634633 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33522</SimpleData>
+                    <SimpleData name="nom_de_la_commune">TALENCE</SimpleData>
+                    <SimpleData name="code_postal">33400</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">TALENCE</SimpleData>
+                    <SimpleData name="y_centroid">64183</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">522</SimpleData>
+                    <SimpleData name="z_moyen">21</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4161</SimpleData>
+                    <SimpleData name="id_geofla">36231</SimpleData>
+                    <SimpleData name="x_chf_lieu">4163</SimpleData>
+                    <SimpleData name="code_cant">56</SimpleData>
+                    <SimpleData name="superficie">830</SimpleData>
+                    <SimpleData name="population">40.6</SimpleData>
+                    <SimpleData name="nom_comm">TALENCE</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64185</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33281</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6106485986,44.8224743045 -0.6141503383,44.8249378437 -0.6107941966,44.835177467 -0.6277124319,44.8413849237 -0.6383364256,44.8606670217 -0.6511984,44.8626058836 -0.666567073,44.8580882238 -0.6758518807,44.8586101744 -0.7194057266,44.846928339 -0.7463147154,44.8503131118 -0.756335346,44.8447914324 -0.7537182161,44.8325586013 -0.73970264,44.8296160968 -0.7331001138,44.8246108471 -0.7262293488,44.8117276563 -0.7292634866,44.8015487934 -0.7048209362,44.8012148929 -0.6796518212,44.8123913088 -0.6606508175,44.8105148253 -0.6517924555,44.8137001422 -0.6271699288,44.814950153 -0.6106485986,44.8224743045 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33281</SimpleData>
+                    <SimpleData name="nom_de_la_commune">MERIGNAC</SimpleData>
+                    <SimpleData name="code_postal">33700</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">MERIGNAC</SimpleData>
+                    <SimpleData name="y_centroid">64215</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">281</SimpleData>
+                    <SimpleData name="z_moyen">42</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4091</SimpleData>
+                    <SimpleData name="id_geofla">8455</SimpleData>
+                    <SimpleData name="x_chf_lieu">4120</SimpleData>
+                    <SimpleData name="code_cant">98</SimpleData>
+                    <SimpleData name="superficie">4784</SimpleData>
+                    <SimpleData name="population">66.1</SimpleData>
+                    <SimpleData name="nom_comm">MERIGNAC</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64225</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33318</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6789190143,44.7770397871 -0.6449609868,44.7778918917 -0.6144022301,44.7928445742 -0.6052508045,44.7930345338 -0.6056619869,44.8087120696 -0.6100662272,44.8143998969 -0.6030472387,44.8184766385 -0.6106485986,44.8224743045 -0.6271699288,44.814950153 -0.6517924555,44.8137001422 -0.6606508175,44.8105148253 -0.6796518212,44.8123913088 -0.7048209362,44.8012148929 -0.7292634866,44.8015487934 -0.7381819977,44.78508754 -0.7361877897,44.774510199 -0.7585653488,44.7552939615 -0.7512919716,44.7505562864 -0.7465923651,44.751589682 -0.712990988,44.7721716232 -0.6917482077,44.781056394 -0.6789190143,44.7770397871 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33318</SimpleData>
+                    <SimpleData name="nom_de_la_commune">PESSAC</SimpleData>
+                    <SimpleData name="code_postal">33600</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">PESSAC</SimpleData>
+                    <SimpleData name="y_centroid">64170</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">318</SimpleData>
+                    <SimpleData name="z_moyen">45</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4093</SimpleData>
+                    <SimpleData name="id_geofla">12075</SimpleData>
+                    <SimpleData name="x_chf_lieu">4128</SimpleData>
+                    <SimpleData name="code_cant">97</SimpleData>
+                    <SimpleData name="superficie">3864</SimpleData>
+                    <SimpleData name="population">58.0</SimpleData>
+                    <SimpleData name="nom_comm">PESSAC</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64184</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>33550</name>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.5622557483,44.7419285437 -0.5658157885,44.7520067573 -0.540660545,44.7618530566 -0.5346225912,44.7672188606 -0.5108938303,44.7690999969 -0.5113585133,44.7735011531 -0.5230913705,44.791134825 -0.5633140016,44.7833778719 -0.5726253562,44.8058343222 -0.5872089501,44.7879872446 -0.5918261133,44.7869634633 -0.5868908786,44.7750737167 -0.5901369062,44.7627026824 -0.5851874556,44.75312967 -0.5713565014,44.7440596497 -0.5622557483,44.7419285437 </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <ExtendedData>
+                <SchemaData schemaUrl="code-insee-postaux-geoflar">
+                    <SimpleData name="code_commune_insee">33550</SimpleData>
+                    <SimpleData name="nom_de_la_commune">VILLENAVE D ORNON</SimpleData>
+                    <SimpleData name="code_postal">33140</SimpleData>
+                    <SimpleData name="libelle_d_acheminement">VILLENAVE D ORNON</SimpleData>
+                    <SimpleData name="y_centroid">64145</SimpleData>
+                    <SimpleData name="nom_region">AQUITAINE</SimpleData>
+                    <SimpleData name="nom_dept">GIRONDE</SimpleData>
+                    <SimpleData name="statut">Chef-lieu canton</SimpleData>
+                    <SimpleData name="code_reg">72</SimpleData>
+                    <SimpleData name="code_comm">550</SimpleData>
+                    <SimpleData name="z_moyen">14</SimpleData>
+                    <SimpleData name="code_dept">33</SimpleData>
+                    <SimpleData name="x_centroid">4185</SimpleData>
+                    <SimpleData name="id_geofla">2889</SimpleData>
+                    <SimpleData name="x_chf_lieu">4179</SimpleData>
+                    <SimpleData name="code_cant">57</SimpleData>
+                    <SimpleData name="superficie">2123</SimpleData>
+                    <SimpleData name="population">28.4</SimpleData>
+                    <SimpleData name="nom_comm">VILLENAVE-D'ORNON</SimpleData>
+                    <SimpleData name="code_arr">2</SimpleData>
+                    <SimpleData name="y_chf_lieu">64153</SimpleData>
+                </SchemaData>
+            </ExtendedData>
+        </Placemark>
+    </Document>
+</kml>
